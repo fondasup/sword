@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbdb09be-7954-460b-9a7a-6981b65633a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MaxRopeCut_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numberof1_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MovingCount_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MovingCount_13.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,41 +19,30 @@
     <session id="1600579787">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="675" />
+          <entry key="java" value="854" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="675" />
+          <entry key="JAVA" value="854" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Singleton_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="988">
-              <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-              <folding>
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayDuplicate_3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,7 +122,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MaxRopeCut_14.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
@@ -143,6 +131,15 @@
                 <element signature="e#707#708#0" expanded="true" />
                 <element signature="e#747#748#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Numberof1_15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -175,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/HasPath_12.java" />
         <option value="$PROJECT_DIR$/src/MovingCount_13.java" />
         <option value="$PROJECT_DIR$/src/MaxRopeCut_14.java" />
+        <option value="$PROJECT_DIR$/src/Numberof1_15.java" />
       </list>
     </option>
   </component>
@@ -190,7 +188,9 @@
     <option name="width" value="1938" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -220,7 +220,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576310173436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576312105120" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -360,14 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxRopeCut_14">
-    <configuration name="Fibonacci_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci_10" />
-      <module name="sword" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Numberof1_15">
     <configuration name="HasPath_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HasPath_12" />
       <module name="sword" />
@@ -389,6 +382,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Numberof1_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numberof1_15" />
+      <module name="sword" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotateMin_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RotateMin_11" />
       <module name="sword" />
@@ -397,19 +397,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Fibonacci_10" />
       <item itemvalue="Application.RotateMin_11" />
       <item itemvalue="Application.HasPath_12" />
       <item itemvalue="Application.MovingCount_13" />
       <item itemvalue="Application.MaxRopeCut_14" />
+      <item itemvalue="Application.Numberof1_15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numberof1_15" />
         <item itemvalue="Application.MaxRopeCut_14" />
         <item itemvalue="Application.MovingCount_13" />
         <item itemvalue="Application.HasPath_12" />
         <item itemvalue="Application.RotateMin_11" />
-        <item itemvalue="Application.Fibonacci_10" />
       </list>
     </recent_temporary>
   </component>
@@ -490,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576222423443</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="14">
+      <created>1576310518707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576310518707</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30983000" />
+    <option name="totallyTimeSpent" value="32755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -546,7 +553,8 @@
     <MESSAGE value="7" />
     <MESSAGE value="8" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="14" />
+    <option name="LAST_COMMIT_MESSAGE" value="14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MyString_1.java">
@@ -655,6 +663,13 @@
             <element signature="e#707#708#0" expanded="true" />
             <element signature="e#747#748#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Numberof1_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
         </state>
       </provider>
     </entry>

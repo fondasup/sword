@@ -1,11 +1,11 @@
 public class MovingCount_13 {
     public static int movingCount(int threshold, int rows, int cols){
-
-        return result;
+        boolean[][] visited = new boolean[rows][cols];
+        return movingCountCore(threshold, 0, 0, rows, cols,visited);
     }
 
-    public static int movingCountCore(int threshold, int row, int col, int rows, int cols){
-        if(row > rows || col > cols) return 0;
+    public static int movingCountCore(int threshold, int row, int col, int rows, int cols, boolean[][] visited){
+        if(row >= rows || col >= cols || visited[row][col]) return 0;
         int total = 0;
         int tRow = row;
         int tCol = col;
@@ -18,6 +18,13 @@ public class MovingCount_13 {
             tCol /= 10;
         }
         if(total > threshold) return 0;
-        else return movingCountCore(threshold, row + 1, col, rows, cols) + movingCountCore(threshold, row, col+1, rows, cols);
+        else{
+            visited[row][col] = true;
+            return movingCountCore(threshold, row + 1, col, rows, cols, visited) + movingCountCore(threshold, row, col+1, rows, cols, visited) + 1;
+        }
+    }
+
+    public static void main(String[] args){
+        System.out.println(movingCount(2, 50,50));
     }
 }

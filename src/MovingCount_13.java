@@ -1,6 +1,6 @@
 public class MovingCount_13 {
     public static int movingCount(int threshold, int rows, int cols){
-        boolean[][] visited = new boolean[rows][cols];
+          boolean[][] visited = new boolean[rows][cols];
         return movingCountCore(threshold, 0, 0, rows, cols,visited);
     }
 

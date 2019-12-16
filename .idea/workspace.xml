@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbdb09be-7954-460b-9a7a-6981b65633a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DeleteNode_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Match_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Power_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Print1toMax_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntryPointInList_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindKthtoTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsNumeric_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsSubTree_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeTwoList_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reorder_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseList_24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MovingCount_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MovingCount_13.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,134 +23,52 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1600579787">
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="3546" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3546" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RebuildTree_7.java">
+        <entry file="file://$PROJECT_DIR$/src/FineIn2DimArray_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="243">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GetNextNode_8.java">
+        <entry file="file://$PROJECT_DIR$/src/ReverseList_24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stack4Queue_9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MovingCount_13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxRopeCut_14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Numberof1_15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Power_16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Print1toMax_17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="436">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
               <folding>
-                <element signature="e#808#809#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DeleteNode_18.java">
+        <entry file="file://$PROJECT_DIR$/src/MergeTwoList_25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+            <state relative-caret-position="166">
+              <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
               <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Match_19.java">
+        <entry file="file://$PROJECT_DIR$/src/IsSubTree_26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
+            <state relative-caret-position="760">
+              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,26 +99,27 @@
         <option value="$PROJECT_DIR$/src/Fibonacci_10.java" />
         <option value="$PROJECT_DIR$/src/RotateMin_11.java" />
         <option value="$PROJECT_DIR$/src/HasPath_12.java" />
-        <option value="$PROJECT_DIR$/src/MovingCount_13.java" />
         <option value="$PROJECT_DIR$/src/MaxRopeCut_14.java" />
         <option value="$PROJECT_DIR$/src/Numberof1_15.java" />
         <option value="$PROJECT_DIR$/src/Power_16.java" />
         <option value="$PROJECT_DIR$/src/Print1toMax_17.java" />
         <option value="$PROJECT_DIR$/src/DeleteNode_18.java" />
         <option value="$PROJECT_DIR$/src/Match_19.java" />
+        <option value="$PROJECT_DIR$/src/MovingCount_13.java" />
+        <option value="$PROJECT_DIR$/src/IsNumeric_20.java" />
+        <option value="$PROJECT_DIR$/src/Reorder_21.java" />
+        <option value="$PROJECT_DIR$/src/FindKthtoTail.java" />
+        <option value="$PROJECT_DIR$/src/EntryPointInList_23.java" />
+        <option value="$PROJECT_DIR$/src/ReverseList_24.java" />
+        <option value="$PROJECT_DIR$/src/MergeTwoList_25.java" />
+        <option value="$PROJECT_DIR$/src/IsSubTree_26.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -218,6 +142,12 @@
               <item name="sword" type="b2602c69:ProjectViewProjectNode" />
               <item name="sword" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sword" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintListReverse_6.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -256,56 +186,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Match_19">
-    <configuration name="DeleteNode_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteNode_18" />
+  <component name="RunManager" selected="Application.IsSubTree_26">
+    <configuration name="EntryPointInList_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntryPointInList_23" />
       <module name="sword" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Match_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Match_19" />
+    <configuration name="FindKthtoTail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindKthtoTail" />
       <module name="sword" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numberof1_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numberof1_15" />
+    <configuration name="IsSubTree_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsSubTree_26" />
       <module name="sword" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Power_16" />
+    <configuration name="MergeTwoList_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoList_25" />
       <module name="sword" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print1toMax_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Print1toMax_17" />
+    <configuration name="ReverseList_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseList_24" />
       <module name="sword" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Numberof1_15" />
-      <item itemvalue="Application.Power_16" />
-      <item itemvalue="Application.Print1toMax_17" />
-      <item itemvalue="Application.DeleteNode_18" />
-      <item itemvalue="Application.Match_19" />
+      <item itemvalue="Application.FindKthtoTail" />
+      <item itemvalue="Application.EntryPointInList_23" />
+      <item itemvalue="Application.ReverseList_24" />
+      <item itemvalue="Application.MergeTwoList_25" />
+      <item itemvalue="Application.IsSubTree_26" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Match_19" />
-        <item itemvalue="Application.DeleteNode_18" />
-        <item itemvalue="Application.Print1toMax_17" />
-        <item itemvalue="Application.Power_16" />
-        <item itemvalue="Application.Numberof1_15" />
+        <item itemvalue="Application.IsSubTree_26" />
+        <item itemvalue="Application.MergeTwoList_25" />
+        <item itemvalue="Application.ReverseList_24" />
+        <item itemvalue="Application.EntryPointInList_23" />
+        <item itemvalue="Application.FindKthtoTail" />
       </list>
     </recent_temporary>
   </component>
@@ -405,13 +335,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46323000" />
+    <option name="totallyTimeSpent" value="62279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25214675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,7 +350,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3270548" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3264642" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,9 +378,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="2" />
@@ -469,15 +396,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Singleton_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
+        <state relative-caret-position="1404">
           <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+          <folding>
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayDuplicate_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="540">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -490,36 +424,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RotateMin_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="648">
           <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HasPath_12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
+        <state relative-caret-position="1026">
           <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FineIn2DimArray_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="243">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReplaceSpace_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
+        <state relative-caret-position="1053">
           <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrintListReverse_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -546,8 +473,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MovingCount_13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        <state relative-caret-position="54">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -598,6 +529,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintListReverse_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reorder_21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsNumeric_20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindKthtoTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EntryPointInList_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseList_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeTwoList_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsSubTree_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

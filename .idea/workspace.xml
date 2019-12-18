@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbdb09be-7954-460b-9a7a-6981b65633a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MedianInStream_41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxSubArray_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimesOf1_43.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,16 +72,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MedianInStream_41.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="729">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#383#384#0" expanded="true" />
                 <element signature="e#437#438#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MaxSubArray_42.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TimesOf1_43.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -149,6 +168,8 @@
         <option value="$PROJECT_DIR$/src/MoreThanHalfNum_39.java" />
         <option value="$PROJECT_DIR$/src/MinKNum_40.java" />
         <option value="$PROJECT_DIR$/src/MedianInStream_41.java" />
+        <option value="$PROJECT_DIR$/src/MaxSubArray_42.java" />
+        <option value="$PROJECT_DIR$/src/TimesOf1_43.java" />
       </list>
     </option>
   </component>
@@ -200,6 +221,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -222,7 +244,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MedianInStream_41">
+  <component name="RunManager" selected="Application.MaxSubArray_42">
+    <configuration name="MaxSubArray_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxSubArray_42" />
+      <module name="sword" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MedianInStream_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MedianInStream_41" />
       <module name="sword" />
@@ -251,27 +280,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializeBiTree_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SerializeBiTree_37" />
-      <module name="sword" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SerializeBiTree_37" />
       <item itemvalue="Application.Permutation_38" />
       <item itemvalue="Application.MoreThanHalfNum_39" />
       <item itemvalue="Application.MinKNum_40" />
       <item itemvalue="Application.MedianInStream_41" />
+      <item itemvalue="Application.MaxSubArray_42" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubArray_42" />
         <item itemvalue="Application.MedianInStream_41" />
         <item itemvalue="Application.MinKNum_40" />
         <item itemvalue="Application.MoreThanHalfNum_39" />
         <item itemvalue="Application.Permutation_38" />
-        <item itemvalue="Application.SerializeBiTree_37" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +318,7 @@
       <workItem from="1576120213244" duration="11179000" />
       <workItem from="1576155273569" duration="5935000" />
       <workItem from="1576402252964" duration="9037000" />
-      <workItem from="1576638879199" duration="18190000" />
+      <workItem from="1576638879199" duration="21382000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1576059854130</created>
@@ -389,11 +411,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576660179258</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="41">
+      <created>1576664025393</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1576664025393</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96623000" />
+    <option name="totallyTimeSpent" value="99815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -448,7 +477,8 @@
     <MESSAGE value="14" />
     <MESSAGE value="36" />
     <MESSAGE value="37" />
-    <option name="LAST_COMMIT_MESSAGE" value="37" />
+    <MESSAGE value="41" />
+    <option name="LAST_COMMIT_MESSAGE" value="41" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MyString_1.java">
@@ -787,13 +817,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MedianInStream_41.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state relative-caret-position="729">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#383#384#0" expanded="true" />
             <element signature="e#437#438#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxSubArray_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimesOf1_43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>

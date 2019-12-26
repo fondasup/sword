@@ -1,4 +1,4 @@
-public class FindMedianSortedArrays_L4 {
+public class FindMedianSortedArrays_LEE_4 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         if(nums1.length > nums2.length){
             int[] tmp = nums1;

@@ -14,7 +14,7 @@ public class removeNthFromEnd_19 {
         for(int i=1;i<=n;i++){
             forword = forword.next;
         }
-        while(forword.next != null){  //follow要到要删除节点的前一个节点；
+        while(forword.next != null){  //fixme follow要到要删除节点的前一个节点；
             forword = forword.next;
             follow = follow.next;
         }

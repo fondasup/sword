@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Stack;
+import java.util.*;
 
 public class Test {
 
@@ -10,6 +8,14 @@ public class Test {
         HashMap<Integer, Integer> map = new HashMap<>();
         Stack<Integer> stack = new Stack<>();
         int[] array = new int[10];
-
+        String str = "33";
+        char[] strA = str.toCharArray();
+        String[] strArray = new String[]{"1", "2"};
+        Arrays.sort(strArray, new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return 0;
+            }
+        });
     }
 }

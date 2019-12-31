@@ -1,3 +1,5 @@
+import javafx.util.Pair;
+
 import java.util.*;
 
 public class Test {
@@ -17,5 +19,8 @@ public class Test {
                 return 0;
             }
         });
+
+        map.put(1,1);
+
     }
 }
